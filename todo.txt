@@ -11,3 +11,4 @@ MY TO-DO LIST
 9. Practive chess openings.
 10. Solve chess puzzle.
 11. Check exam schedule.
+12. Clean the windows.
